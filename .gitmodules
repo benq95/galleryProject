@@ -1,0 +1,6 @@
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/benq95/gallery
+[submodule "galleryap"]
+	path = galleryap
+	url = https://github.com/benq95/galleryap
